@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PULL!</string>
+    <string name="left_tab">Workout</string>
+    <string name="center_tab">History</string>
+    <string name="right_tab">Overview</string>
+
+</resources>
